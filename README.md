@@ -1,1 +1,2 @@
 # portfolio-json
+ポートフォリオ用
